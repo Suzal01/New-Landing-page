@@ -4,7 +4,7 @@ const ForthSection = () => {
   return (
     <section className=" forth bg-white w-[100vw] h-[100vh] text-gray-800 py-12">
         <div className="relative  w-full  mt-8">
-        <div className=" tilt w-[100vw] h-[320px] right-[20px] top-[20px] absolute bg-cover bg-center" style={{ backgroundImage: `url('https://dev-chating-app.pantheonsite.io/wp-content/uploads/2024/07/pexels-photo-7516363.jpeg')`, transform: 'rotate(-1deg)' }}>
+        <div className=" tilt w-[100vw] h-[320px] right-[14px] top-[20px] absolute bg-cover bg-center" style={{ backgroundImage: `url('https://dev-chating-app.pantheonsite.io/wp-content/uploads/2024/07/pexels-photo-7516363.jpeg')`, transform: 'rotate(-1deg)' }}>
           <div className="absolute inset-0 bg-black opacity-50 flex flex-col lg:flex-row items-center justify-between px-4 lg:px-12">
           </div>
         </div>

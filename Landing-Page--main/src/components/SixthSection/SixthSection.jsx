@@ -25,12 +25,12 @@ const SixthSection = () => {
           </div>
         </div>
       </div>
-     <div className="relative top-[10px] bg-cover bg-center py-20 transform -skew-y-1" style={{ backgroundImage: `url('https://dev-chating-app.pantheonsite.io/wp-content/uploads/2024/07/pexels-photo-5926370.jpeg')` }}>
-     <div className="transform skew-y-1 text-center text-white">
+     <div className="relative top-[25px] bg-cover bg-center py-20" style={{ backgroundImage: `url('https://dev-chating-app.pantheonsite.io/wp-content/uploads/2024/07/pexels-photo-5926370.jpeg')` }}>
+     <div className="text-center text-white">
        <h4 className="text-lg font-semibold">JOIN NOW</h4>
-       <h1 className="text-3xl font-bold mt-2">Start Chatting Smarter With ChattinApp Today</h1>
+       <h1 className="text-3xl font-bold mt-2">Start Chatting Smarter With Chattit App Today</h1>
        <h4 className="text-lg font-normal mt-2">
-         Experience the future of online communication with ChattinApp. Join now and revolutionize <br /> the way you chat!
+         Experience the future of online communication with Chattit App. Join now and revolutionize <br /> the way you chat!
        </h4>
        <button className="mt-4 px-6 py-3 bg-red-500 text-white font-semibold rounded">GET STARTED</button>
      </div>
