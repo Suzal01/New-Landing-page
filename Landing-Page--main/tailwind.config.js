@@ -17,8 +17,8 @@ export default {
       },
       keyframes: {
         pulse: {
-          'from': { transform: 'scale(0)' },
-          'to': { transform: 'scale(1)'  },
+          'from': { transform: 'scale(1)' },
+          'to': { transform: 'scale(1.2)'  },
         },
     move: {
       '0%': { opacity: '0', transform: 'translateX(1500px)' },
