@@ -1,4 +1,5 @@
 import React from 'react';
+import { Swiper, SwiperSlide } from 'swiper/react';
 import Navbar from './components/FirstPage/FirstPage';
 import Secondpage from './components/Secondpage/Secondpage';
 import LocomotiveScroll from 'Locomotive-scroll';
@@ -11,6 +12,7 @@ function App() {
 
   const scroll = new LocomotiveScroll();
   return (
+    <Swiper>
     <>
       <Navbar />
       <Secondpage />
@@ -20,6 +22,7 @@ function App() {
       <FifthSection />
       <SixthSection />
       </>
+      </Swiper>
   )
 };
 
